@@ -1,0 +1,22 @@
+{
+  "name": "learning-angularjs",
+  "version": "0.0.1",
+  "authors": [
+    "Lucas Amaral <lucas.amaral.dw@gmail.com>"
+  ],
+  "description": "repository with examples using angularjs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.1",
+    "requirejs": "~2.1.15",
+    "jquery": "~2.1.1",
+    "foundation": "~5.4.7"
+  }
+}
